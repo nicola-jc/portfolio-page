@@ -1,0 +1,39 @@
+header {
+    background: #696768;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+body {
+    background: #f3f2f2;
+}
+
+img {
+    border-radius: 10%;
+    box-shadow: 5px 10px 10px grey;
+}
+
+#photo {
+    float: left;
+    width: 50%;
+    padding: 15px;
+}
+
+#info {
+    /* border: solid 5px orchid; */
+    float: right;
+    /* background: #818080; */
+    width: 50%;
+    padding: 15px;
+}
+
+a {
+    font-style: italic;
+    color: #a14573;
+}
+
+a.hover {
+    color: #a14573;
+}
